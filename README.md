@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Kartik Porwal<br><br>Aspiring Software Engineer | MERN Stack Developer 🚀 | Building real-world web applications | Learning DSA & Backend Development.<br><br>Hi! I’m Kartik Porwal a final-year B.Tech Computer Science student with a strong interest in full-stack web development.<br>I enjoy building practical projects that solve real problems and help me strengthen my backend logic, APIs, and database design. I’m actively preparing for software engineering roles and improving my problem-solving skills.
+👋 Hey! I’m Kartik Porwal, a Computer Science Engineering graduate with a strong interest in full-stack web development and software engineering. I enjoy building practical and scalable web applications using technologies like React.js, Node.js, Express.js, and MongoDB. I’m particularly interested in backend development, RESTful APIs, authentication, and database design. I’m actively building real-world projects, strengthening my problem-solving skills, and preparing for software engineering opportunities where I can contribute, learn, and grow as a developer.
 
 
 ## 🌐 Socials:
